@@ -128,5 +128,5 @@ switch (groceryItem) {  // if else구문이 아닌 switch를 통해서 사용한
   default: // 어떠한 case도 groceryItem과 같지 않다면
     console.log('Invalid item'); // Invalid item을 출력
     break;  //종료한다.
-} // Prints 'Papayas are $1.29'
+} // Prints 'Papayas are $1.29' 
  
