@@ -1,3 +1,3 @@
 # JavaScript
 
-## Codecademy JavaScript 
+Codecademy JavaScript 
