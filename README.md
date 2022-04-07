@@ -2,5 +2,5 @@
 
 Codecademy JavaScript 
 
-[course](https://www.codecademy.com/learn/introduction-to-javascript)
+[Course](https://www.codecademy.com/learn/introduction-to-javascript)
 
