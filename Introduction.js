@@ -2,10 +2,10 @@
 Python으로 말하자면 Print와 같은 문법이다.
 출력하는 방법으로는 여러가지가 있는데 기본적으로
 Console.log(~); 를 사용해서 출력한다.*/
-console.log(5);
-console.log(10);
-console.log('cada');
-console.log('*');
+console.log(5); //5
+console.log(10); //10
+console.log('cada'); //cada
+console.log('*'); //*
 
 /*Data Types
 Number : 10진법으로 나타내는 숫자
